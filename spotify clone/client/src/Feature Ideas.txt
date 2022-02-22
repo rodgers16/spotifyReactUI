@@ -1,0 +1,11 @@
+Feature Ideas
+
+A Page that returns various search results like spotify
+Implement heartings a song
+Implement Adding song to playlist?
+Implement Shuffled
+Implement Repeat
+Responsiveness
+Darkness?
+OnHoverEffects?
+Click on Artist goes to artist etc
